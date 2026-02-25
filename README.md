@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sisay</h1>
-<h3 align="center">Frontend Developer | React • Next.js • TypeScript</h3>
+<h3 align="center">Frontend Web Developer | React.Js | Next.js | TypeScript</h3>
 
 <p align="center">
   I build clean, scalable, and high-performance web applications with modern JavaScript technologies.
